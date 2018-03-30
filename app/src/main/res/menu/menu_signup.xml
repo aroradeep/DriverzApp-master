@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/allSongs"
+    android:title="Logout"/>
+
+    <item android:id="@+id/fav"
+        android:title="Book Driver"/>
+
+    <item android:id="@+id/artist"
+        android:title="My Profile"/>
+
+    <item android:id="@+id/views"
+        android:title="History"/>
+
+    <item android:id="@+id/lib"
+        android:title="Aboutus"
+        android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="ifRoom"/>
+</menu>

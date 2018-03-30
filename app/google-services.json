@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "157799666782",
+    "firebase_url": "https://driverz-a56f8.firebaseio.com",
+    "project_id": "driverz-a56f8",
+    "storage_bucket": "driverz-a56f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157799666782:android:f7cd7fc63068a002",
+        "android_client_info": {
+          "package_name": "com.example.hp2.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157799666782-6eqa9hu0vm1ashv2bujs58b1lid3f0ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_03kn1-PIyFP1opuKQP9GxHOBOtAAuQs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
